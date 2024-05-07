@@ -22,7 +22,7 @@ There are two ways to install `golings`
 ### go install
 
 ```sh
-go install github.com/mauricioabreu/golings/golings@latest
+go install github.com/rebuilt/golings/golings@latest
 ```
 
 Add `go/bin` to your PATH if you want to run golings anywhere in your terminal. From the official docs:
@@ -31,7 +31,7 @@ Add `go/bin` to your PATH if you want to run golings anywhere in your terminal. 
 
 ### Binaries
 
-Go to the [releases page](https://github.com/mauricioabreu/golings/releases) and choose the option that best fits your environment.
+Go to the [releases page](https://github.com/rebuilt/golings/releases) and choose the option that best fits your environment.
 
 ### Web version (playground)
 
